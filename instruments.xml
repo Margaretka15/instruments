@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="instruments.xsl"?>
+
+<instruments>
+
+    <instrument type="wind">
+        <name>Trombone</name>
+        <category>brass</category>
+        <image>https://muzyczny.pl/towary1/60200.jpg</image>
+        <description>
+            The trombone is easily recognisable by its distinctive use of a hand-operated slide held out in
+            front, in order to change pitch.
+        </description>
+    </instrument>
+
+    <instrument type="wind">
+        <name>Trumpet</name>
+        <category>brass</category>
+        <image>https://www.diki.pl/images-common/words400/trumpet.jpg</image>
+        <description>
+            One of the most ancient of all instruments. Played horizontally via a series
+            of valves on the top of the instrument.
+        </description>
+    </instrument>
+
+    <instrument type="wind">
+        <name>Tuba</name>
+        <category>brass</category>
+        <image>
+            https://images.musicstore.de/images/1280/yamaha-ybb-321-bb-tuba-4-4-four-valves-lacquered_1_BLA0001736-000.jpg
+        </image>
+        <description>
+            The piston valve action is similar to the trumpet, only the valves themselves are
+            situated in the middle of the instrument.
+        </description>
+    </instrument>
+
+
+    <instrument type="wind">
+        <name>Flute</name>
+        <category>woodwind</category>
+        <image>https://th.static-thomann.de/thumb/orig/pics/bdb/317477/7732787_800.jpg</image>
+        <description>
+            A normally silver-plated (or in more extravagant cases, gold), narrow-bored instrument, held horizontally
+            just under the mouth.
+        </description>
+    </instrument>
+
+    <instrument type="string">
+        <name>Violin</name>
+        <category>bowed</category>
+        <image>https://m.media-amazon.com/images/I/61X-T0lbtYL._SL1500_.jpg</image>
+        <description>
+            The violin typically has four strings and it is most commonly played by drawing a bow across its strings.
+        </description>
+    </instrument>
+
+    <instrument type="string">
+        <name>Guitar</name>
+        <category>plucked</category>
+        <image>https://img.smyk.com/https://beta-cdn.smyk.com/media/product/760/1/smiki-gitara-elektryczna-czerwona-6276441.jpg</image>
+        <description>
+            Very popular string instruments. It usually has six strings, but there are also guitars with four or twelve
+            strings.
+        </description>
+    </instrument>
+
+    <instrument type="wind">
+        <name>Saxophone</name>
+        <category>woodwind</category>
+        <image>https://image.ceneostatic.pl/data/products/15685662/fe77fde5-598f-4e08-a78d-e89a70be857f_i-yamaha-yas-280.jpg</image>
+        <description>
+            The saxophone was designed around 1840 by Adolphe Sax, a Belgian instrument maker, and first gained
+            popularity in military bands.
+        </description>
+    </instrument>
+
+    <instrument type="wind">
+        <name>Oboe</name>
+        <category>woodwind</category>
+        <image>https://thumbs.static-thomann.de/thumb/orig/pics/bdb/100462/15433975_800.jpg</image>
+        <description>
+            A narrow-bored wooden instrument descended from the medieval shawm.
+        </description>
+    </instrument>
+
+    <instrument type="wind">
+        <name>Piccolo</name>
+        <category>woodwind</category>
+        <image>https://elcoda.com/images/super/jupiter-jpc1010-piccolo-flute-1.jpg</image>
+        <description>Higher pitched "cousin" of the flute. Very small and can produce incredibly high tones.
+        </description>
+    </instrument>
+
+    <instrument type="key">
+        <name>Piano</name>
+        <category>key</category>
+        <image>https://ae01.alicdn.com/kf/HTB1eZEia.T1gK0jSZFhq6yAtVXax/None-Piano-Model-Black-White-Key-Mini-Piano-Decor-Accessories-Keyboard-Instrument-Display-Christmas-Musical-Gifts.jpg</image>
+        <description> A large musical instrument, played by pressing black and white keys on a keyboard.
+        </description>
+    </instrument>
+
+
+</instruments>
