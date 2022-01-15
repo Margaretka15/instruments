@@ -17,10 +17,8 @@
         <name>Trumpet</name>
         <category>brass</category>
         <image>https://www.diki.pl/images-common/words400/trumpet.jpg</image>
-        <description>
-            One of the most ancient of all instruments. Played horizontally via a series
-            of valves on the top of the instrument.
-        </description>
+        <description>One of the most ancient of all instruments. Played horizontally via a series
+            of valves on the top of the instrument.</description>
     </instrument>
 
     <instrument type="wind">
@@ -29,10 +27,8 @@
         <image>
             https://images.musicstore.de/images/1280/yamaha-ybb-321-bb-tuba-4-4-four-valves-lacquered_1_BLA0001736-000.jpg
         </image>
-        <description>
-            The piston valve action is similar to the trumpet, only the valves themselves are
-            situated in the middle of the instrument.
-        </description>
+        <description>The piston valve action is similar to the trumpet, only the valves themselves are
+            situated in the middle of the instrument.</description>
     </instrument>
 
 
@@ -60,7 +56,7 @@
         <category>plucked</category>
         <image>https://img.smyk.com/https://beta-cdn.smyk.com/media/product/760/1/smiki-gitara-elektryczna-czerwona-6276441.jpg</image>
         <description>
-            Very popular string instruments. It usually has six strings, but there are also guitars with four or twelve
+            Very popular string instrument. It usually has six strings, but there are also guitars with four or twelve
             strings.
         </description>
     </instrument>
@@ -94,7 +90,7 @@
 
     <instrument type="key">
         <name>Piano</name>
-        <category>key</category>
+        <category>keyboard</category>
         <image>https://ae01.alicdn.com/kf/HTB1eZEia.T1gK0jSZFhq6yAtVXax/None-Piano-Model-Black-White-Key-Mini-Piano-Decor-Accessories-Keyboard-Instrument-Display-Christmas-Musical-Gifts.jpg</image>
         <description> A large musical instrument, played by pressing black and white keys on a keyboard.
         </description>
