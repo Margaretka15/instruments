@@ -1,6 +1,6 @@
 # Musical Instruments - project for XML processing class.
 
-This is a final project I created for my XML processing class. XML file contains information about ten musical instruments. HTML page allows user to display all of them, filter them by category or by search phrase.
+This is a final project I created for my XML processing class. XML file contains information about ten musical instruments. HTML page allows the user to display all of them, filter them by one of three categories or by search phrase.
 
 ## Goal
 The final project consisted of the following tasks:
