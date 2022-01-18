@@ -1,0 +1,7 @@
+<!ELEMENT instruments (instrument*)>
+        <!ELEMENT instrument (name, category, image, description)>
+        <!ATTLIST instrument type CDATA #IMPLIED>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT category (#PCDATA)>
+        <!ELEMENT image (#PCDATA)>
+        <!ELEMENT description (#PCDATA)>
